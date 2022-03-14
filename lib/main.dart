@@ -1,4 +1,4 @@
-import 'package:assignment1/widget_row.dart';
+import 'package:assignment1/row_item.dart';
 import 'package:flutter/material.dart';
 void main() {
   runApp(const MyApp());
